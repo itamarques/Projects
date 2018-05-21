@@ -1,7 +1,7 @@
 # Projects
 <h1># School-Work</h1>
 <p>This File is to show all projects done over the years in Computer Information System program</p>
-<h2>Projects</h2>
+Projects
 <hr></hr>
 
 
