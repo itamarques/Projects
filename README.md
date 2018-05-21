@@ -2,7 +2,7 @@
 <h1># School-Work</h1>
 <p>This File is to show all projects done over the years in Computer Information System program</p>
 Projects
-<hr></hr>
+
 
 
 <div>
@@ -14,7 +14,7 @@ Projects
   
 </ol>
 </div>
-<hr></hr>
+
 
 <section>
   <h3>Works accomplished</h3>
