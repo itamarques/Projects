@@ -10,9 +10,9 @@ Projects
   <li>Bingo Project</li>
   <li>MongoDB and Python Project</li>
   <li>ChildCare Project using MySQL</li>
-
-  
 </ol>
+  
+  
 </div>
 
 
