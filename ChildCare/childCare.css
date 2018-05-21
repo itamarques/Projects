@@ -1,0 +1,31 @@
+
+
+.wrapper {
+    margin-top: 5em;
+    text-align: center;
+}
+
+form { 
+    
+    display: inline-block;
+    text-align: center;
+}
+ 
+
+
+
+input[type=submit],input[type=reset] {
+    background-color: #673AB7;
+    color: white;
+    border-style: none;
+    height: 3em;
+    width: 7em;
+    border-style:none;
+}
+input[type=submit]:hover{
+    background-color: #6200EA;
+}
+
+input[type=reset]:hover {
+    background-color: #6200EA;
+}
